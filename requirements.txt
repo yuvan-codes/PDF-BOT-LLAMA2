@@ -1,0 +1,6 @@
+faiss-gpu
+streamlit
+langchain
+langchain-community
+pydantic
+pypdf
